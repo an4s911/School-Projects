@@ -157,7 +157,7 @@ def displayFixtures():
 		print("Time: " + time[0:-3])
 		print("Stadium: " + stadium)
 		print("Oponent: " + oponent)
-		i += 1
+	    i += 1
 	print("***********************************************")
 
 	main()
