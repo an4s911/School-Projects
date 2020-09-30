@@ -157,7 +157,11 @@ def displayFixtures():
 		print("Time: " + time[0:-3])
 		print("Stadium: " + stadium)
 		print("Oponent: " + oponent)
+<<<<<<< HEAD
 		i += 1
+=======
+	    i += 1
+>>>>>>> cf1163ee49613cb20b64a9e731c29c81e548125d
 	print("***********************************************")
 
 	main()
@@ -192,4 +196,8 @@ def main():
 		print("Invalid Input!")
 		main()
 
+<<<<<<< HEAD
 main()
+=======
+main()
+>>>>>>> cf1163ee49613cb20b64a9e731c29c81e548125d
